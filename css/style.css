@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.flag{
+  height: 32vh;
+  display: block;
+  padding-top: 1%;
+}
+
+.flagleft{
+  padding-left: 10%;
+  float: left;
+}
+
+.flagright{
+  padding-right: 10%;
+  float: right;
+}
+
+#title{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: rgb(203,204,208);
+  padding-top: 35vh;
+  padding-bottom: 8vh;
+  height: 40vh;
+  color: rgb(23, 68, 121);
+}
+
+#name{
+  margin-top: 1%;
+  font-size: 6vw;
+  font-style: oblique;
+}
+
+#soon{
+  margin-top: 1%;
+  font-size: 3.5vw;
+}
+
+#desc{
+  margin-top: 1%;
+  font-size: 3.5vw;
+}
+
+#contact{
+  background-color: rgba(31, 97, 174, .5);
+  padding: 2% 0%;
+  height: 9.5vh;
+  color: rgb(23, 68, 121);
+}
+
+#touch{
+  text-align: center;
+  font-size: 2vw;
+  font-family: 'Montserrat', sans-serif;
+}
+
+input{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+  color: rgb(23, 68, 121);
+  background-color: rgb(203,204,208);
+}
+
+#submit{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+  color: rgb(23, 68, 121);
+  background-color: rgb(203,204,208);
+  padding: .5%;
+}
+
+#copywrite{
+  text-align: center;
+  padding-top: 2%;
+}
