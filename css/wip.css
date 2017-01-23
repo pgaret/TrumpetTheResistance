@@ -40,9 +40,22 @@
   font-size: 3.5vw;
 }
 
+a{
+  color: rgb(23, 68, 121);
+}
+
 #desc{
   margin-top: 1%;
   font-size: 3.5vw;
+}
+
+#more{
+  padding: .5%;
+  margin-top: 1%;
+  font-size: 200%;
+  background-color: rgb(129,161,203);
+  color: rgb(23, 68, 121);
+
 }
 
 #contact{
